@@ -53,4 +53,5 @@ Route::group(['middleware' => ['web']], function () {
 });
 Route::group(['middleware' => ['web']], function () {
 	Route::resource('subjects', 'SubjectsController');
+	Route::resource('common-subjects', 'CommonSubjectsController');
 });

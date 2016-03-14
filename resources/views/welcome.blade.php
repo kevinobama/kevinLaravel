@@ -12,6 +12,7 @@
                     <li style="width: 200px;float: left"><a href="/generators/model" target="_blank">Create Models</a></li>
                     <li style="width: 200px;float: left"><a href="/demo"  target="_blank">demo</a></li>
                     <li style="width: 200px;float: left"><a href="/subjects"  target="_blank">subjects</a></li>
+                    <li style="width: 200px;float: left"><a href="/common-subjects"  target="_blank">common subjects</a></li>
 
                 </div>
             </div>

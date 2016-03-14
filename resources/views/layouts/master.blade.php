@@ -25,6 +25,8 @@
 	                <span class="icon-bar"></span>
 	            </button>
 	            <a class="navbar-brand" href="#">CRUD App</a>
+				<a class="navbar-brand" href="/common-subjects">common subjects</a>
+
 	        </div>
 
 			<div class="collapse navbar-collapse" id="navbar-collapse-1">
