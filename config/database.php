@@ -60,18 +60,18 @@ return [
             'engine'    => null,
         ],
 
-        'hooray_exam' => [
-            'driver'    => 'mysql',
-            'host'      => env('DB_HOST', '192.168.0.111'),
-            'database'  => 'hooray_exam',
-            'username'  => env('DB_USERNAME', 'root'),
-            'password'  => env('DB_PASSWORD', 'db3a88'),
-            'charset'   => 'utf8',
-            'collation' => 'utf8_unicode_ci',
-            'prefix'    => 'edu_',
-            'strict'    => false,
-            'engine'    => null,
-        ],
+//        'hooray_exam' => [
+//            'driver'    => 'mysql',
+//            'host'      => env('DB_HOST', '192.168.0.111'),
+//            'database'  => 'hooray_exam',
+//            'username'  => env('DB_USERNAME', 'root'),
+//            'password'  => env('DB_PASSWORD', 'db3a88'),
+//            'charset'   => 'utf8',
+//            'collation' => 'utf8_unicode_ci',
+//            'prefix'    => 'edu_',
+//            'strict'    => false,
+//            'engine'    => null,
+//        ],
     ],
 // DB_HOST=192.168.0.111
 // DB_DATABASE=hooray_exam
